@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @michamichien
+- 👀 I’m interested in Web Development, Web Design, App coding
+- 🌱 I’m currently learning Python, Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on Telegram: @michamichien
